@@ -1,2 +1,6 @@
 # tugas-pemrograman-tersetruktur
-anggota kelompok : Gilang Gugum Gumilang
+anggota kelompok :
+1. Gilang Gugum Gumilang
+2. muladi
+3. geni saputra
+
